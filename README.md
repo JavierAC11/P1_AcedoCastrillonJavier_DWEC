@@ -7,7 +7,7 @@ Sería una aplicación web de planificación de viajes, he pensado la las person
 Esta aplicación está destinada para prácticamente todo tipo de público, sobre todo a la gente joven y adulta ya que son los que mas viajan.
 
 ## Analisis de mercado
-TODO()
+Hay varias aplicaciónes de planificación de rutas como pueden ser Rutas10 o way-away, son 2 planificadores de rutas en los cuales tambien puedes filtrar por la cantidad de dias, el sitio que quieras visitar o el tipo de turismo. Lo que diferenciara esta aplicación de las otras del mercado es que el propio ususario podra publicar sus propiar ruta y puntuar las de otros ususarios.
 
 ## Funcionalidades clave
 | Funcionalidad            | Descripción                                                                                                                                                                                           |
