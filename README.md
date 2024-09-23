@@ -21,6 +21,22 @@ Hay varias aplicaciónes de planificación de rutas como pueden ser Rutas10 o wa
 ## Modelos de ejecución
 TODO()
 
+## Lenguajes de programación web 
+### TypeScript
+| Ventajas                                    | Descripción                                                                                                                  |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| Tipado estatico                             | Es un lenguaje de progracacion al cual cada variable tiene un tipo el cual no se puede cambiar                               |
+| Mas facil de leer                           | Tambien al ser de tipado estatico las variables siempre seran del mismo tipo por lo cual sera mas facil de leer              |
+| Mas facil de mantener                       | Al ser de tipado estatico es mas facil de tocar el cdigo y por ser mas facil de leer tambien es mas facil de entenderlo      |
+| Compatibilidad con estandares de javascript | No se tendra ningun problema con la compatibilidad con JavaScript ya que es compatible con los estandares                    |
+| Comunidad                                   | Hay una gran comunidad de este lenguaje por lo cual si buscas informacion por internet do deberia ser dificil de encontrarla |
+
+| Desventajas                                 | Descripción |
+|---------------------------------------------|-------------|
+| Curva de aprendizaje                        | Para las pensonas que estan acostumbradas a JavaScript les cuesta adaotarse a TypeScript por no estar acostumbrados al tipado estatico |
+| Documentacion limitada                      | Como es un lenguaje que tampoco tiene tantos años en algunos casos puede resultar mas dificil encpntrar documentacion |
+| Tiene que compilarse                        | Se tiene que compilar para despues usarse en los navegadores |
+
 ## Tecnologías a utilizar
 TODO()
 ### Evaluación de los mecanismos de integración de lenguajes de marcas con lenguajes de programación de clientes web: 
