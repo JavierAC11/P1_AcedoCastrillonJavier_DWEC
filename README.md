@@ -37,6 +37,19 @@ TODO()
 | Documentacion limitada                      | Como es un lenguaje que tampoco tiene tantos años en algunos casos puede resultar mas dificil encpntrar documentacion |
 | Tiene que compilarse                        | Se tiene que compilar para despues usarse en los navegadores |
 
+### JavaScript
+| Ventajas             | Descripción                                                                                                     |
+|----------------------|-----------------------------------------------------------------------------------------------------------------|
+| Curva de aprendizaje | Este lenguaje tiene una sintaxis simple, por lo cual no es dificil de aprender                                  |
+| Compatibilidad       | Es compatible con todos los navegadores                                                                         |
+| Documentación        | Tiene una amplia documentación y es facil de encontrar ya que se usa en practicamente todos sitios              |
+| Tiempo de desarrollo | Al no ser de tipado estatico para hacer pequeños programas y pruebas el codigo es mas rapido de realizar        |
+
+| Desventajas          | Descripción                                                                                   |
+|----------------------|-----------------------------------------------------------------------------------------------|
+| Detección de errores | Al compilarse mientras se ejecuta podemos tener problemas al detectar errores                 |
+| Escalabilidad        | Puede resultar ser mas complicado hacer aplicaciones mas grandes y complejas en este lenguaje |
+
 ## Tecnologías a utilizar
 TODO()
 ### Evaluación de los mecanismos de integración de lenguajes de marcas con lenguajes de programación de clientes web: 
