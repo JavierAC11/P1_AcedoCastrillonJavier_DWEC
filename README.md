@@ -31,6 +31,9 @@ Hay varias aplicaciónes de planificación de rutas como pueden ser Rutas10 o wa
 
 ### Servidor
 #### Caracteristicas
+- La ejecucion se realiza en el servidor
+- Tiene dependencia del servidor
+- Tiene una gran cantidad de lenguajes de programacion (como Java, PHP, JavaScript(usando Node.js)...)
 
 
 ## Lenguajes de programación web 
