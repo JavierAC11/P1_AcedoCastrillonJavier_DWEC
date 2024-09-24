@@ -19,7 +19,19 @@ Hay varias aplicaciónes de planificación de rutas como pueden ser Rutas10 o wa
 | Añadir entrada           | El usuario tendra la posibilidad de añadir una ruta para que otros usuarios puedan verla                                                                                                              |
 
 ## Modelos de ejecución
-TODO()
+### Cliente
+#### Caracteristicas
+- La ejecucion se realiza en el dispositivo del cliente, por lo cual los recursos tambien dependen del mismo dispositivo.
+- Se usan lenguajes que el dispositivo del cliente pueda interpretar (como HTML, CSS o JavaScript)
+- No soicita tantas peticiones a un servidor
+- Actualmente la parte lógica tambien se puede ejecutar en la parte de cliente
+
+### Ventajas
+- 
+
+### Servidor
+#### Caracteristicas
+
 
 ## Lenguajes de programación web 
 ### TypeScript
