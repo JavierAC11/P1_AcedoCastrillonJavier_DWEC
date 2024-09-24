@@ -45,9 +45,8 @@
 ## Tecnologías a utilizar
 TODO()
 ### Evaluación de los mecanismos de integración de lenguajes de marcas con lenguajes de programación de clientes web: 
-TODO()
+Para esto se usaria junta a HTML y CSS el DOM y el uso del framework de React
 
 ### Evaluación de herramientas de programación para clientes web:
-TODO()
-
+Para el desarrollo de la pagina web usaria el IDE de Visual Studio Code ya que es bastante completo y tiene muchas extenciones para la ayuda en la realizacion del codigo.  
 ## Compatibilidad en navegadores:
