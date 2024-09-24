@@ -1,4 +1,4 @@
-                                                                                                        ## Modelos de ejecución
+## Modelos de ejecución
 ### Cliente
 #### Caracteristicas
 - La ejecucion se realiza en el dispositivo del cliente, por lo cual los recursos tambien dependen del mismo dispositivo.
@@ -23,11 +23,11 @@
 | Compatibilidad con estandares de javascript | No se tendra ningun problema con la compatibilidad con JavaScript ya que es compatible con los estandares                    |
 | Comunidad                                   | Hay una gran comunidad de este lenguaje por lo cual si buscas informacion por internet do deberia ser dificil de encontrarla |
 
-| Desventajas                                 | Descripción |
-|---------------------------------------------|-------------|
+| Desventajas                                 | Descripción                                                                                                                            |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | Curva de aprendizaje                        | Para las pensonas que estan acostumbradas a JavaScript les cuesta adaotarse a TypeScript por no estar acostumbrados al tipado estatico |
-| Documentacion limitada                      | Como es un lenguaje que tampoco tiene tantos años en algunos casos puede resultar mas dificil encpntrar documentacion |
-| Tiene que compilarse                        | Se tiene que compilar para despues usarse en los navegadores |
+| Documentacion limitada                      | Como es un lenguaje que tampoco tiene tantos años en algunos casos puede resultar mas dificil encpntrar documentacion                  |
+| Tiene que compilarse                        | Se tiene que compilar para despues usarse en los navegadores                                                                           |
 
 ### JavaScript
 | Ventajas             | Descripción                                                                                                     |
@@ -43,10 +43,10 @@
 | Escalabilidad        | Puede resultar ser mas complicado hacer aplicaciones mas grandes y complejas en este lenguaje |
 
 ## Tecnologías a utilizar
-TODO()
 ### Evaluación de los mecanismos de integración de lenguajes de marcas con lenguajes de programación de clientes web: 
 Para esto se usaria junta a HTML y CSS el DOM y el uso del framework de React
 
 ### Evaluación de herramientas de programación para clientes web:
-Para el desarrollo de la pagina web usaria el IDE de Visual Studio Code ya que es bastante completo y tiene muchas extenciones para la ayuda en la realizacion del codigo.  
+Para el desarrollo de la pagina web usaria el IDE de Visual Studio Code ya que es bastante completo y tiene muchas extenciones para la ayuda en la realizacion del codigo. Se usaria el framework de React por la facilidad del desarrollo del codigo por la reutilizacion de componentes, el DOM virtual que ayuda al rendimiento de la pagina, que el codigo es facilmente escalable y por la documentacion que hay sobre este framework ya que hay una gran cantidad de paginas que lo usan.
 ## Compatibilidad en navegadores:
+La compatibilidad con los diferentes navegadores seria bastante alta ya que React es compatible con la mayoria de navegadores por lo menos con los mas famosos como pueden ser Firefox, Chrome u Opera.
