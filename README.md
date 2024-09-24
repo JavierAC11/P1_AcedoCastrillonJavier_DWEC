@@ -26,9 +26,6 @@ Hay varias aplicaciónes de planificación de rutas como pueden ser Rutas10 o wa
 - No soicita tantas peticiones a un servidor
 - Actualmente la parte lógica tambien se puede ejecutar en la parte de cliente
 
-### Ventajas
-- 
-
 ### Servidor
 #### Caracteristicas
 - La ejecucion se realiza en el servidor
